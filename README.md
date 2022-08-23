@@ -7,10 +7,14 @@ Erismann
 | Datum           | Version | Zusammenfassung                                              |
 | --------------- | ------- | ------------------------------------------------------------ |
 |   23.08.2022    | 0.0.1   | "1.1 Ihr Projekt" fertig                                     |
-|   23.08.2022    | 0.0.2   | "1.2 User Stories" fertig.                                   |
+|   23.08.2022    | 0.0.2   | "1.2 User Stories" anggefangen.                              |
 |   23.08.2022    | 0.0.3   | "1.4 Diagramme" fertig.                                      |
-|   23.08.2022    | 0.0.4   | "1.2 User Stories" fertig.                                   |
-|   23.08.2022    | 0.0.5   | "1.2 User Stories" überarbeitet.                             |
+|   23.08.2022    | 0.0.4   | "1.3 Testfälle" angefangen.                                  |
+|   23.08.2022    | 0.0.5   | "1.2 User Stories" fertig.                                   |
+|   23.08.2022    | 0.0.6   | "1.3 Testfälle" fertig.                                      |
+|   23.08.2022    | 0.0.7   | "2 Planen" angefangen.                                       |
+|   23.08.2022    | 0.0.8   | "1.2 User Stories" überarbeitet.                             |
+|   23.08.2022    | 0.0.9   | ...                                                          |
 
 ## 1 Informieren
 
@@ -22,22 +26,23 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 | US-№ | Verbindlichkeit | Typ         | Beschreibung                                                                                                        |
 | ---- | --------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    |       Muss      |  Funktional | Als Programierer möchte ich zuerst einen Ablaufplan (PAP) kreiiren, damit ich meinen Code darauf Aufbauen kann.     |
-| 1    |       Muss      |  Funktional | Als Programierer möchte ich ein Programm kreieren, damit ich eine Zufällige Zahl erhalte.                           |
-| 2    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                                     |
-| 3    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleider als die generierte zahl ist.                      |
-| 4    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                                    |
+| 1    |       Muss      |  Funktional | Als Programierer möchte ich zuerst einen Ablaufplan (PAP) kreiren, damit ich meinen Code darauf Aufbauen kann.      |
+| 2    |       Muss      |  Funktional | Als Programierer möchte ich ein Programm kreieren, damit ich eine Zufällige Zahl erhalte.                           |
+| 3    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                                     |
+| 4    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleider als die generierte zahl ist.                      |
+| 5    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage                               | Eingabe                        | Erwartete Ausgabe                    |
-| ---- | ------------------------------------------ | -----------------------------  | ------------------------------------ |
-| 1.1  | Ich möchte eine zufalls Zahl generieren.   | Die zufällige Zahl generieren. | Programm speichert die zufalls Zahl. |
-| 2.1  | Ich möchte eine zufalls Zahl erraten.      | Ich gebe eine Zahl ein.        | Du hast die Zahl richtig erraten.    |
-| 3.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.        | Deine Zahl ist zu Gross / zu Klein.  |
-| 4.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.        | Deine Zahl ist zu Gross / zu Klein.  |
+| TC-№ | Ausgangslage                               | Eingabe                                | Erwartete Ausgabe                    |
+| ---- | ------------------------------------------ | -------------------------------------  | ------------------------------------ |
+| 1.1  | Ich möchte eine eine Planung erstellen.    | Im PAPDesigner einen ablauf erstellen. | Einen brauchbaren ablauf.            |
+| 2.1  | Ich möchte eine zufalls Zahl generieren.   | Die zufällige Zahl generieren.         | Programm speichert die zufalls Zahl. |
+| 3.1  | Ich möchte eine zufalls Zahl erraten.      | Ich gebe eine Zahl ein.                | Du hast die Zahl richtig erraten.    |
+| 4.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.                | Deine Zahl ist zu Gross / zu Klein.  |
+| 5.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.                | Deine Zahl ist zu Gross / zu Klein.  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
