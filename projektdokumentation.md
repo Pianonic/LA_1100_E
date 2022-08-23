@@ -53,10 +53,10 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung                          | geplante Zeit |
-| ---- | ----- | --------- | ------------------------------------  | ------------- |
-| 1.A  |       |           | versuchen die Userstory zu schreiben  | 20 Minuten    |
-| 2.A  |       |           | Die Dokument versionen ausfüllen      | 2 Minuten     |
+| AP-№ | Frist       | Zuständig | Beschreibung                          | geplante Zeit |
+| ---- | ----------- | --------- | ------------------------------------  | ------------- |
+| 1.A  |  23.08.2022 |           | Den Ablauf kreiren                    | 20 Minuten    |
+| 2.A  |             |           | Programmieren                         | 5 Stunden     |
 
 Total: 
 
@@ -72,8 +72,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit                         | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------------------------------- | ----------------- |
-| 1.A  |       |           | versuchen die Userstory zu schreiben  | 1 Stunden         |
-| 2.A  |       |           | Die Dokument versionen ausfüllen      | 2 Minuten         |
+| 1.A  |       |           | Den Ablauf kreiren                    | 5 Minuten         |
+| 2.A  |       |           |                                       |                   |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
