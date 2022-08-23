@@ -6,15 +6,15 @@ Erismann
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben. |
+|       | 0.0.1   | garnixx                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl erraten muss.
 
 ### 1.2 User Stories
 
