@@ -4,11 +4,11 @@
 
 Erismann
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben. |
-|       | 0.0.2   | garnixx                          |
-|       | 1.0.0   |                                                              |
+| Datum           | Version | Zusammenfassung                                              |
+| --------------- | ------- | ------------------------------------------------------------ |
+|   23.08.2022    | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben.                        |
+|   23.08.2022    | 0.0.2   | "1.2 User Stories" angefangen.                               |
+|   23.08.2022    | 0.0.3   | "1.4 Diagramme" fertig.                                      |
 
 ## 1 Informieren
 
@@ -18,19 +18,21 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       Muss      |  Funktional | Als ein Spieler möchte ich eine zahl erraten, damit ich spass habe. |
-| ...  |                 |      |                                    |
+| US-№ | Verbindlichkeit | Typ         | Beschreibung                                                                                    |
+| ---- | --------------- | ----------- | ----------------------------------------------------------------------------------------------- |
+| 1    |       Muss      |  Funktional | Als Programierer möchte ich ein Programm kreieren, damit ich eine Zufällige Zahl erhalte.       |
+| 2    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                 |
+| 3    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleider als die generierte zahl ist.  |
+| 4    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№ | Ausgangslage                               | Eingabe                        | Erwartete Ausgabe                    |
+| ---- | ------------------------------------------ | -----------------------------  | ------------------------------------ |
+| 1.1  | Ich möchte eine zufalls Zahl generieren.   | Die zufällige Zahl generieren. | Programm speichert die zufalls Zahl. |
+| 2.1  | Ich möchte eine zufalls Zahl erraten.      | Ich gebe eine Zahl ein.        | Du hast die Zahl richtig erraten.    |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -41,10 +43,10 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist | Zuständig | Beschreibung                          | geplante Zeit |
+| ---- | ----- | --------- | ------------------------------------  | ------------- |
+| 1.A  |       |           | versuchen die Userstory zu schreiben  | 1 Stunden     |
+| 2.A  |       |           | Die Dokument versionen ausfüllen      | 2 Minuten     |
 
 Total: 
 
@@ -58,11 +60,10 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| AP-№ | Datum | Zuständig | geplante Zeit                         | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------------------------------- | ----------------- |
+| 1.A  |       |           | versuchen die Userstory zu schreiben  | 1 Stunden         |
+| 2.A  |       |           | Die Dokument versionen ausfüllen      | 2 Minuten         |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
