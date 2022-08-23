@@ -6,9 +6,11 @@ Erismann
 
 | Datum           | Version | Zusammenfassung                                              |
 | --------------- | ------- | ------------------------------------------------------------ |
-|   23.08.2022    | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben.                        |
-|   23.08.2022    | 0.0.2   | "1.2 User Stories" angefangen.                               |
+|   23.08.2022    | 0.0.1   | "1.1 Ihr Projekt" fertig                                     |
+|   23.08.2022    | 0.0.2   | "1.2 User Stories" fertig.                                   |
 |   23.08.2022    | 0.0.3   | "1.4 Diagramme" fertig.                                      |
+|   23.08.2022    | 0.0.4   | "1.2 User Stories" fertig.                                   |
+|   23.08.2022    | 0.0.5   | "1.2 User Stories" überarbeitet.                             |
 
 ## 1 Informieren
 
@@ -18,12 +20,13 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ         | Beschreibung                                                                                    |
-| ---- | --------------- | ----------- | ----------------------------------------------------------------------------------------------- |
-| 1    |       Muss      |  Funktional | Als Programierer möchte ich ein Programm kreieren, damit ich eine Zufällige Zahl erhalte.       |
-| 2    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                 |
-| 3    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleider als die generierte zahl ist.  |
-| 4    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                |
+| US-№ | Verbindlichkeit | Typ         | Beschreibung                                                                                                        |
+| ---- | --------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1    |       Muss      |  Funktional | Als Programierer möchte ich zuerst einen Ablaufplan (PAP) kreiiren, damit ich meinen Code darauf Aufbauen kann.     |
+| 1    |       Muss      |  Funktional | Als Programierer möchte ich ein Programm kreieren, damit ich eine Zufällige Zahl erhalte.                           |
+| 2    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                                     |
+| 3    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleider als die generierte zahl ist.                      |
+| 4    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
