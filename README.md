@@ -33,6 +33,8 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | ---- | ------------------------------------------ | -----------------------------  | ------------------------------------ |
 | 1.1  | Ich möchte eine zufalls Zahl generieren.   | Die zufällige Zahl generieren. | Programm speichert die zufalls Zahl. |
 | 2.1  | Ich möchte eine zufalls Zahl erraten.      | Ich gebe eine Zahl ein.        | Du hast die Zahl richtig erraten.    |
+| 3.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.        | Deine Zahl ist zu Gross / zu Klein.  |
+| 4.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.        | Deine Zahl ist zu Gross / zu Klein.  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -45,7 +47,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 | AP-№ | Frist | Zuständig | Beschreibung                          | geplante Zeit |
 | ---- | ----- | --------- | ------------------------------------  | ------------- |
-| 1.A  |       |           | versuchen die Userstory zu schreiben  | 1 Stunden     |
+| 1.A  |       |           | versuchen die Userstory zu schreiben  | 20 Minuten    |
 | 2.A  |       |           | Die Dokument versionen ausfüllen      | 2 Minuten     |
 
 Total: 
