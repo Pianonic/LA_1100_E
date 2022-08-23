@@ -7,7 +7,7 @@ Erismann
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben. |
-|       | 0.0.2   | garnixx                                                              |
+|       | 0.0.2   | garnixx                          |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -20,7 +20,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |       Muss      |  Funktional | Als ein Spieler möchte ich eine zahl erraten, damit ich spass habe. |
 | ...  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
