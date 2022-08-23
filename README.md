@@ -7,7 +7,7 @@ Erismann
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | "1.1 Ihr Projekt" fertig geschrieben. |
-|       | 0.0.1   | garnixx                                                              |
+|       | 0.0.2   | garnixx                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
