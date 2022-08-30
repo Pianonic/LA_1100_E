@@ -55,8 +55,8 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 | AP-№ | Frist       | Zuständig | Beschreibung                          | geplante Zeit |
 | ---- | ----------- | --------- | ------------------------------------  | ------------- |
-| 1.A  |  23.08.2022 |           | Den Ablauf kreiren                    | 20 Minuten    |
-| 2.A  |             |           | Programmieren                         | 5 Stunden     |
+| 1.A  |  23.08.2022 | Ich       | Den Ablauf kreiren                    | 20 Minuten    |
+| 2.A  |             |           | Programmieren                         | 2 Stunden     |
 
 Total: 
 
