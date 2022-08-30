@@ -14,7 +14,8 @@ Erismann
 |   23.08.2022    | 0.0.6   | "1.3 Testfälle" fertig.                                      |
 |   23.08.2022    | 0.0.7   | "2 Planen" angefangen.                                       |
 |   23.08.2022    | 0.0.8   | "1.2 User Stories" überarbeitet.                             |
-|   23.08.2022    | 0.0.9   | ...                                                          |
+|   30.08.2022    | 0.0.9   | "2 Planen" überarbeitet.                                     |
+|   30.08.2022    | 0.1.0   | ...                                     |
 
 ## 1 Informieren
 
