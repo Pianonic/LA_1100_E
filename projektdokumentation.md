@@ -18,8 +18,9 @@ Erismann
 |   30.08.2022    | 0.1.0   | "2 Planen" überarbeitet.                                     |
 |   30.08.2022    | 0.1.1   | "1.2 User Stories" überarbeitet.                             |
 |   30.08.2022    | 0.1.2   | "1.3 Testfälle" überarbeitet.                                |
-|   30.08.2022    | 0.1.3   | "5.1 Testfälle" überarbeitet.                                |
+|   30.08.2022    | 0.1.3   | "5.1 Testfälle" angefangen.                                  |
 |   30.08.2022    | 0.1.4   | "4 Realisieren" fertig.                                      |
+|   30.08.2022    | 0.1.5   | "4 Realisieren" fertig.                                      |
 
 ## 1 Informieren
 
@@ -65,6 +66,8 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 1.A  |  23.08.2022 | Ich       | Den Ablauf kreiren                    | 20 Minuten    |
 | 2.A  |  10.08.2022 | Ich       | Programmieren                         | 2 Stunden     |
 | 2.A  |  10.08.2022 | Ich       | Code nach PAP überarbeiten            | 1 Stunde      |
+| 3.A  |  10.08.2022 | Ich       | Projektdokumentation                  | 2 Stunde      |
+| 4.A  |  10.08.2022 | Ich       | Code nach PAP überarbeiten            | 1 Stunde      |
 
 Total: 
 
@@ -83,6 +86,7 @@ Total:
 | 1.A  | 23.08.2022 | Ich       | Den Ablauf kreiren                    | 5 Minuten         |
 | 2.A  | 30.08.2022 | Ich       | Programmiern                          | 40 Minuten        |
 | 2.A  | 30.08.2022 | Ich       | Code nach PAP überarbeiten            | 50 Minuten        |
+| 3.A  | 10.08.2022 | Ich       | Projektdokumentation                  | 2 Stunden         |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -90,11 +94,10 @@ Total:
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum      | Resultat                  | Tester   |
-| ---- | ---------- | ------------------------- | -------- |
-| 1.1  | 30.08.2022 | Funktioniert Einwandfreu  | Luca J.w |
-| ...  |            |                           |          |
-
+| TC-№ | Datum      | Resultat                                                | Tester    |
+| ---- | ---------- | ------------------------------------------------------- | --------- |
+| 1.1  | 30.08.2022 | Funktioniert Einwandfrei                                | Luca J.w  |
+| 1.2  | 30.08.2022 | Funktioniert Einwandfrei jedoch verbesserungsvorschläge | Damian M. |
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
