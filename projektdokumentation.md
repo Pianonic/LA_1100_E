@@ -70,10 +70,10 @@ Total:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit                         | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------------------------------- | ----------------- |
-| 1.A  |       |           | Den Ablauf kreiren                    | 5 Minuten         |
-| 2.A  |       |           |                                       |                   |
+| AP-№ | Datum      | Zuständig | geplante Zeit                         | tatsächliche Zeit |
+| ---- | ---------- | --------- | ------------------------------------- | ----------------- |
+| 1.A  | 23.08.2022 | Ich       | Den Ablauf kreiren                    | 5 Minuten         |
+| 2.A  |            |           |                                       |                   |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
