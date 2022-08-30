@@ -14,8 +14,12 @@ Erismann
 |   23.08.2022    | 0.0.6   | "1.3 Testfälle" fertig.                                      |
 |   23.08.2022    | 0.0.7   | "2 Planen" angefangen.                                       |
 |   23.08.2022    | 0.0.8   | "1.2 User Stories" überarbeitet.                             |
-|   30.08.2022    | 0.0.9   | "2 Planen" überarbeitet.                                     |
-|   30.08.2022    | 0.1.0   | ...                                     |
+|   23.08.2022    | 0.0.9   | "4 Realisieren" angefangen.                                  |
+|   30.08.2022    | 0.1.0   | "2 Planen" überarbeitet.                                     |
+|   30.08.2022    | 0.1.1   | "1.2 User Stories" überarbeitet.                             |
+|   30.08.2022    | 0.1.2   | "1.3 Testfälle" überarbeitet.                                |
+|   30.08.2022    | 0.1.3   | "5.1 Testfälle" überarbeitet.                                |
+|   30.08.2022    | 0.1.4   | "4 Realisieren" fertig.                                      |
 
 ## 1 Informieren
 
@@ -32,18 +36,20 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 3    |       Muss      |  Funktional | Als Spieler möchte ich eine zahl erraten, damit ich spass habe.                                                     |
 | 4    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine zahl grösser oder kleiner als die generierte zahl ist.                      |
 | 5    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                                    |
+| 6    |       Muss      |  Funktional | Als Spieler möchte ich entscheiden können, ob ich eine neue Rude beginnen will oder das Programm schliessen will.   |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage                               | Eingabe                                | Erwartete Ausgabe                    |
-| ---- | ------------------------------------------ | -------------------------------------  | ------------------------------------ |
-| 1.1  | Ich möchte eine eine Planung erstellen.    | Im PAPDesigner einen ablauf erstellen. | Einen brauchbaren ablauf.            |
-| 2.1  | Ich möchte eine zufalls Zahl generieren.   | Die zufällige Zahl generieren.         | Programm speichert die zufalls Zahl. |
-| 3.1  | Ich möchte eine zufalls Zahl erraten.      | Ich gebe eine Zahl ein.                | Du hast die Zahl richtig erraten.    |
-| 4.1  | Ich möchte eine rückmeldung erhalten.      | Ich gebe eine Zahl ein.                | Deine Zahl ist zu Gross / zu Klein.  |
-| 5.1  | Ich möchte eine gratulation erhalten.      | Ich gebe eine Zahl ein.                | Gratulation du hast es geschafft.    |
+| TC-№ | Ausgangslage                                                      | Eingabe                                | Erwartete Ausgabe                    |
+| ---- | ----------------------------------------------------------------- | -------------------------------------  | ------------------------------------ |
+| 1.1  | Ich möchte eine eine Planung erstellen.                           | Im PAPDesigner einen ablauf erstellen. | Einen brauchbaren ablauf.            |
+| 2.1  | Ich möchte eine zufalls Zahl generieren.                          | Die zufällige Zahl generieren.         | Programm speichert die zufalls Zahl. |
+| 3.1  | Ich möchte eine zufalls Zahl erraten.                             | Ich gebe eine Zahl ein.                | Du hast die Zahl richtig erraten.    |
+| 4.1  | Ich möchte eine rückmeldung erhalten.                             | Ich gebe eine Zahl ein.                | Deine Zahl ist zu Gross / zu Klein.  |
+| 5.1  | Ich möchte eine gratulation erhalten.                             | Ich gebe eine Zahl ein.                | Gratulation du hast es geschafft.    |
+| 6.1  | Ich möchte eine möglichkeit erhalten, das Spiel neu zu starten.   | Ich gebe True oder False ein.          | Gratulation du hast es geschafft.    |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -76,17 +82,18 @@ Total:
 | ---- | ---------- | --------- | ------------------------------------- | ----------------- |
 | 1.A  | 23.08.2022 | Ich       | Den Ablauf kreiren                    | 5 Minuten         |
 | 2.A  | 30.08.2022 | Ich       | Programmiern                          | 40 Minuten        |
-| 2.A  | 30.08.2022 | Ich       | Code nach PAP überarbeiten            |         |
+| 2.A  | 30.08.2022 | Ich       | Code nach PAP überarbeiten            | 50 Minuten        |
+
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum      | Resultat                  | Tester   |
+| ---- | ---------- | ------------------------- | -------- |
+| 1.1  | 30.08.2022 | Funktioniert Einwandfreu  | Luca J.w |
+| ...  |            |                           |          |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
