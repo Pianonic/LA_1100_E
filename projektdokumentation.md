@@ -50,7 +50,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Zuf%C3%A4llige%20Zahl.png?raw=true)
+![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Zuf%C3%A4llige%20Zahli.png?raw=true)
 
 ## 2 Planen
 
