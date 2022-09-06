@@ -40,7 +40,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 5    |       Muss      |  Funktional | Als Spieler möchte ich entscheiden können, ob ich eine neue Rude beginnen will oder das Programm schliessen will.   |
 | 6    |       Kann      |  Qualität   | Als Spieler möchte ich ein schönes Konsolen Interface mit farben sehen.                                             |
 | 7    |       Kann      |  Funktional | Als Spieler möchte meine Zahlenspanne selbst eintscheiden.                                                          |
-| 8    |       Kann      |  Funktional | Als Spieler möchte ich zwischen verschiedene schwierigkeitsstufen entscheiden können.                               |
+| 8    |       Kann      |  Funktional | Als Spieler möchte ich zwischen 2 verschiedenen schwierigkeitsstufen entscheiden können oder einen eigenen wert eingeben. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -48,12 +48,15 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 | TC-№ | Ausgangslage                                                      | Eingabe                                | Erwartete Ausgabe                    |
 | ---- | ----------------------------------------------------------------- | -------------------------------------  | ------------------------------------ |
-| 1.1  | Zahl wurde generiert und wartet auf User Input.                   | fünfundfünfzig                         | "Dies ist keine Zahl!"               |
-| 3.1  | Ich möchte eine zufalls Zahl erraten.                             | Ich gebe eine Zahl ein.                | "Du hast die Zahl richtig erraten" oder "Deine Zahl ist zu Gross / zu Klein".    |
-| 4.1  | Ich möchte eine nicht Zahl eingeben.                              | Ich gebe ein Wort ein.                 | "Dies ist eine Unerlaubte Aktion".    |
-| 5.1  | Ich möchte eine rückmeldung erhalten.                             | Ich gebe eine Zahl ein.                | "Deine Zahl ist zu Gross / zu Klein". |
-| 6.1  | Ich möchte eine gratulation erhalten.                             | Ich gebe eine Zahl ein.                | Gratulation du hast es geschafft.     |
-| 7.1  | Ich möchte eine möglichkeit erhalten, das Spiel neu zu starten.   | Ich gebe True oder False ein.          | "Super Spiel wird neu getstartet!"    |
+| 1.1  | Zahl wurde generiert und wartet auf User Input.                   | "fünfundfünfzig"                       | "Dies ist keine gültige Zahl!"       |
+| 1.2  | Zahl wurde generiert und wartet auf User Input.                   | "Das ist ein Test"                     | "Dies ist keine gültige Zahl!"       |
+| 2.1  | Zahl wurde generiert und wartet auf User Input.                   | "20"                                   | "Du hast die Zahl richtig erraten"   |
+| 3.1  | Zahl wurde generiert und wartet auf User Input.                   | "40"                                   | "Deine Zahl ist zu Gross / zu Klein" |
+| 4.1  | Zahl wurde generiert und wartet auf User Input.                   | "20"                                   | "Gratulation du hast es geschafft" |
+| 5.1  | Frage wurde gestellt und wartet auf user Input.                   | True / False                           | True = "Super Spiel wird neu getstartet!" False = "Schade ;)"   |
+| 6.1  | Programm wurde ausgeführt.                                        | "Nichts"                               | ![Bild](https://user-images.githubusercontent.com/79938743/188586636-30d68380-6ef1-48fc-8fef-1039e8416c92.png) |
+| 7.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | "Super, beginnen wir!" |
+| 8.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | "Super, beginnen wir!" |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
