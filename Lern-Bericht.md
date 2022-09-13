@@ -20,7 +20,7 @@ Hier ist der Code vom obigem Bild:
 
 ``` using System;
 
-namespace ConsoleApp1
+namespace Titel
 {
     internal class Program
     {
