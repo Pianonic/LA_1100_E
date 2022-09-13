@@ -22,6 +22,7 @@ Erismann
 |   30.08.2022    | 0.1.4   | "4 Realisieren" fertig.                                      |
 |   06.09.2022    | 0.1.5   | "1.2 User Stories" überarbeitet.                             |
 |   06.09.2022    | 0.1.5   | "1.3 Testfälle" überarbeitet.                                |
+|   13.09.2022    | 0.1.6   | Alles fertig ausgefüllt und überarbeitet.                    |
 
 ## 1 Informieren
 
