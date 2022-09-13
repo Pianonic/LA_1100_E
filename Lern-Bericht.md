@@ -15,6 +15,21 @@ Als ich bei einem Kollegen aus der Parallelklasse gesehen habe, dass er sein Pro
 
 ![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Animation.gif)
 ![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Screenshot%202022-09-13%20100154.png?raw=true)
+Hier ist der Code vom obigem Bild:
+
+``` using System;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\r\n  ____              _     _          _         _____         _     __  \r\n |  _ \\  __ _ ___  (_)___| |_    ___(_)_ __   |_   _|__  ___| |_   \\ \\ \r\n | | | |/ _` / __| | / __| __|  / _ \\ | '_ \\    | |/ _ \\/ __| __| (_) |\r\n | |_| | (_| \\__ \\ | \\__ \\ |_  |  __/ | | | |   | |  __/\\__ \\ |_   _| |\r\n |____/ \\__,_|___/ |_|___/\\__|  \\___|_|_| |_|   |_|\\___||___/\\__| ( ) |\r\n                                                                  |/_/ \r\n");
+        }
+    }
+}
+```
 
 
 ## Verifikation
