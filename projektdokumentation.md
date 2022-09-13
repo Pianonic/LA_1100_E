@@ -120,11 +120,12 @@ Total:
 
 ### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-|     |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| BR-№ | Ausgangslage                                 | Eingabe                | Erwartete Ausgabe | Tatsächliche Ausgabe |
+| ---- | -------------------------------------------- | ---------------------- | ----------------- | -------------------- |
+| I    | Bei True/Flase soll Programm Neustarten      |   Eine Zahl            |  Nicht gültige Eingabe |            Ungültige Zahl und hat nur noch ungültige Zahl ausgegeben und hat auch bei einer richtigen Eingabe falsch reagiert          |
 
+Liam Gideon Koch
+Liam Gideon Koch hat keine  weiter Fehler im Programm gefunden, es war nur der Testfall 5.1.
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
