@@ -57,8 +57,8 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 5.1  | Spiel wurde bendet.                                               | -                                      | "Du hast (AnzVersuche) Versuche gebraucht." |
 | 6.1  | Frage wurde gestellt und wartet auf user Input.                   | True / False                           | True = "Super Spiel wird neu getstartet!" False = "Schade ;)"   |
 | 7.1  | Programm wurde ausgeführt.                                        | "Nichts"                               | ![Bild](https://user-images.githubusercontent.com/79938743/188586636-30d68380-6ef1-48fc-8fef-1039e8416c92.png) |
-| 8.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | "Super, beginnen wir!" |
-| 9.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | "Super, beginnen wir!" |
+| 8.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | ***Programm startet mit einer Custom Zahl.*** |
+| 9.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | ***Programm wechselt in den Modus.*** |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -105,15 +105,24 @@ Total:
 
 | TC-№ | Datum      | Resultat                                                | Tester    |
 | ---- | ---------- | ------------------------------------------------------- | --------- |
-| 1.1  | 30.08.2022 | Funktioniert Einwandfrei                                | Luca J.w  |
-| 1.2  | 30.08.2022 | Funktioniert Einwandfrei jedoch verbesserungsvorschläge | Damian M. |
+| 1.9  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 1.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 1.2  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 2.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 3.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 4.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 5.1  | 13.08.2022 | Funktioniert, Aber falsches Resultat                    | Ich       |
+| 6.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 7.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+| 8.1  | 13.08.2022 | Funktioniert                                            | Ich       |
+
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+|     |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
