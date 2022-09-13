@@ -64,7 +64,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 
 
 
-![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Zuf%C3%A4llige%20Zahl.png?raw=true)
+![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Zuf%C3%A4llige%20Zahlen.png?raw=true)
 
 ## 2 Planen
 
