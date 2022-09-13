@@ -45,6 +45,8 @@ Wer RGB mag, dem wird auch das gefallen.  ;)
 
 ![bild3](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/ezgif-2-d541ef824d.gif?raw=true)
 
+Hier ist der Code zum gif:
+
 ```csharp
 using System;
 using System.Security.Cryptography.X509Certificates;
