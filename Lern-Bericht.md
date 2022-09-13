@@ -35,6 +35,42 @@ namespace ConsoleApp1
 
 ```
 
+Wenn man RGB mag dem wird auch das gefallen. ;)
+
+![bild3](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/ezgif-2-d541ef824d.gif?raw=true)
+
+```csharp
+using System;
+using System.Security.Cryptography.X509Certificates;
+using System.Threading;
+
+namespace Titel
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 1;
+            while (x == 1)
+            {
+                Console.BackgroundColor = ConsoleColor.Red; // Hier wird der Hintergrund auf Rot Gesetzt.
+                Console.WriteLine("\r\n  ____              _     _          _         _____         _     __  \r\n |  _ \\  __ _ ___  (_)___| |_    ___(_)_ __   |_   _|__  ___| |_   \\ \\ \r\n | | | |/ _` / __| | / __| __|  / _ \\ | '_ \\    | |/ _ \\/ __| __| (_) |\r\n | |_| | (_| \\__ \\ | \\__ \\ |_  |  __/ | | | |   | |  __/\\__ \\ |_   _| |\r\n |____/ \\__,_|___/ |_|___/\\__|  \\___|_|_| |_|   |_|\\___||___/\\__| ( ) |\r\n                                                                  |/_/ \r\n"); // DAs ist der Titel
+                Thread.Sleep(100); // Hier werden 100 Millisekunden gewartet.
+                Console.Clear(); // Hier wird die Konsole gelöscht.
+                Console.BackgroundColor = ConsoleColor.Green; // Hier wird der Hintergrund auf Grün Gesetzt.
+                Console.WriteLine("\r\n  ____              _     _          _         _____         _     __  \r\n |  _ \\  __ _ ___  (_)___| |_    ___(_)_ __   |_   _|__  ___| |_   \\ \\ \r\n | | | |/ _` / __| | / __| __|  / _ \\ | '_ \\    | |/ _ \\/ __| __| (_) |\r\n | |_| | (_| \\__ \\ | \\__ \\ |_  |  __/ | | | |   | |  __/\\__ \\ |_   _| |\r\n |____/ \\__,_|___/ |_|___/\\__|  \\___|_|_| |_|   |_|\\___||___/\\__| ( ) |\r\n                                                                  |/_/ \r\n"); // DAs ist der Titel
+                Thread.Sleep(100); // Hier werden 100 Millisekunden gewartet.
+                Console.Clear(); // Hier wird die Konsole gelöscht.
+                Console.BackgroundColor = ConsoleColor.Blue; // Hier wird der Hintergrund auf Blau Gesetzt.
+                Console.WriteLine("\r\n  ____              _     _          _         _____         _     __  \r\n |  _ \\  __ _ ___  (_)___| |_    ___(_)_ __   |_   _|__  ___| |_   \\ \\ \r\n | | | |/ _` / __| | / __| __|  / _ \\ | '_ \\    | |/ _ \\/ __| __| (_) |\r\n | |_| | (_| \\__ \\ | \\__ \\ |_  |  __/ | | | |   | |  __/\\__ \\ |_   _| |\r\n |____/ \\__,_|___/ |_|___/\\__|  \\___|_|_| |_|   |_|\\___||___/\\__| ( ) |\r\n                                                                  |/_/ \r\n"); // DAs ist der Titel
+                Thread.Sleep(100); // Hier werden 100 Millisekunden gewartet.
+                Console.Clear(); // Hier wird die Konsole gelöscht.
+            }
+        }
+    }
+}
+
+```
 
 ## Verifikation
 
