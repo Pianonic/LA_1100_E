@@ -86,7 +86,7 @@ Im Text wird beschrieben wie ich vorgegangen bin, im gif sieht man wie die Webse
 
 # Reflektion zum Arbeitsprozess
 
-Einfach war die Farbe zu implementieren.
-Schwierig war eine Webseite zu finden, welche ein ASCII Titel macht.
+👍Einfach war die Farbe zu implementieren.
+👎Schwierig war eine Webseite zu finden, welche ein ASCII Titel macht.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Beim nächsten mal werde ich genau so vorgehen wie jetzt, da ich gemerkt habe dass es so am besten funktioniert.
