@@ -17,16 +17,9 @@ Als ich bei einem Kollegen aus der Parallelklasse gesehen habe, dass er sein Pro
 ![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Screenshot%202022-09-13%20100154.png?raw=true)
 
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im Text wird beschrieben wie ich vorgegangen bin, im gif sieht man wie die Webseite funktioniert und auf dem Bild wie man wie es in der Konsole aussieht.
 
 # Reflektion zum Arbeitsprozess
 
