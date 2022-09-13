@@ -35,7 +35,13 @@ namespace ConsoleApp1
 
 ```
 
-Wenn man RGB mag dem wird auch das gefallen. ;)
+Wer RGB mag, dem wird auch das gefallen.  ;)
+
+
+
+
+
+
 
 ![bild3](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/ezgif-2-d541ef824d.gif?raw=true)
 
