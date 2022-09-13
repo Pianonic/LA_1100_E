@@ -1,7 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Erismann
 
 | Datum           | Version | Zusammenfassung                                              |
@@ -44,8 +42,6 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 8    |       Kann      |  Funktional | Als Spieler möchte meine Zahlenspanne selbst eintscheiden.                                                          |
 | 9    |       Kann      |  Funktional | Als Spieler möchte ich zwischen 2 verschiedenen schwierigkeitsstufen entscheiden können oder einen eigenen wert eingeben. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage                                                      | Eingabe                                | Erwartete Ausgabe                    |
@@ -60,8 +56,6 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 7.1  | Programm wurde ausgeführt.                                        | "Nichts"                               | ![Bild](https://user-images.githubusercontent.com/79938743/188586636-30d68380-6ef1-48fc-8fef-1039e8416c92.png) |
 | 8.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | ***Programm startet mit einer Custom Zahl.*** |
 | 9.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | ***Programm wechselt in den Modus.*** |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -78,6 +72,7 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 2.A  |  10.08.2022 | Ich       | Code nach PAP überarbeiten            | 1 Stunde      |
 | 3.A  |  10.08.2022 | Ich       | Projektdokumentation                  | 2 Stunde      |
 | 4.A  |  10.08.2022 | Ich       | Code nach PAP überarbeiten            | 1 Stunde      |
+| 5.A  |  10.08.2022 | Ich       | Code nach PAP überarbeiten            | 1 Stunde      |
 
 Total: 
 
@@ -89,6 +84,7 @@ Total:
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
+
 ## 4 Realisieren
 
 | AP-№ | Datum      | Zuständig | geplante Zeit                         | tatsächliche Zeit |
@@ -97,6 +93,7 @@ Total:
 | 2.A  | 30.08.2022 | Ich       | Programmiern                          | 40 Minuten        |
 | 2.A  | 30.08.2022 | Ich       | Code nach PAP überarbeiten            | 50 Minuten        |
 | 3.A  | 10.08.2022 | Ich       | Projektdokumentation                  | 2 Stunden         |
+| 3.A  | 06.09.2022 | Ich       | Projektdokumentation                  | 2 Stunden         |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -117,7 +114,7 @@ Total:
 | 7.1  | 13.08.2022 | Funktioniert                                            | Ich       |
 | 8.1  | 13.08.2022 | Funktioniert                                            | Ich       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: 
 
 ### 5.2 Exploratives Testen
 
@@ -126,8 +123,6 @@ Total:
 | I    | Bei True/Flase soll Programm Neustarten      |   Eine Zahl            |  Nicht gültige Eingabe |            Ungültige Zahl und hat nur noch ungültige Zahl ausgegeben und hat auch bei einer richtigen Eingabe falsch reagiert          |
 
 Liam Gideon Koch
-Liam Gideon Koch hat keine  weiter Fehler im Programm gefunden, es war nur der Testfall 5.1.
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
