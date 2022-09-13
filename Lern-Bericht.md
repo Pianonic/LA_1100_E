@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Erismann Niclas
 
 ## Einleitung
 
