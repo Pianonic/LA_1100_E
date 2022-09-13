@@ -37,10 +37,11 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 2    |       Muss      |  Funktional | Als Spieler möchte ich eine Zahl erraten, damit ich spass habe.                                                     |
 | 3    |       Muss      |  Funktional | Als Spieler möchte ich wissen, ob meine Zahl grösser oder kleiner als die generierte Zahl ist.                      |
 | 4    |       Muss      |  Funktional | Als Spieler möchte ich eine gratulation, falls ich die Zahl herausgefunden habe.                                    |
-| 5    |       Muss      |  Funktional | Als Spieler möchte ich entscheiden können, ob ich eine neue Rude beginnen will oder das Programm schliessen will.   |
-| 6    |       Kann      |  Qualität   | Als Spieler möchte ich ein schönes Konsolen Interface mit farben sehen.                                             |
-| 7    |       Kann      |  Funktional | Als Spieler möchte meine Zahlenspanne selbst eintscheiden.                                                          |
-| 8    |       Kann      |  Funktional | Als Spieler möchte ich zwischen 2 verschiedenen schwierigkeitsstufen entscheiden können oder einen eigenen wert eingeben. |
+| 5    |       Muss      |  Funktional | Als Spieler möchte ich am ende einer Runde sehen, wie veiele Versuche ich hatte.                                    |
+| 6    |       Muss      |  Funktional | Als Spieler möchte ich entscheiden können, ob ich eine neue Rude beginnen will oder das Programm schliessen will.   |
+| 7    |       Kann      |  Qualität   | Als Spieler möchte ich ein schönes Konsolen Interface mit farben sehen.                                             |
+| 8    |       Kann      |  Funktional | Als Spieler möchte meine Zahlenspanne selbst eintscheiden.                                                          |
+| 9    |       Kann      |  Funktional | Als Spieler möchte ich zwischen 2 verschiedenen schwierigkeitsstufen entscheiden können oder einen eigenen wert eingeben. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -53,10 +54,11 @@ Ein Spiel, in welchem der User eine vom Programm zufällig generierte zahl errat
 | 2.1  | Zahl wurde generiert und wartet auf User Input.                   | "20"                                   | "Du hast die Zahl richtig erraten"   |
 | 3.1  | Zahl wurde generiert und wartet auf User Input.                   | "40"                                   | "Deine Zahl ist zu Gross / zu Klein" |
 | 4.1  | Zahl wurde generiert und wartet auf User Input.                   | "20"                                   | "Gratulation du hast es geschafft" |
-| 5.1  | Frage wurde gestellt und wartet auf user Input.                   | True / False                           | True = "Super Spiel wird neu getstartet!" False = "Schade ;)"   |
-| 6.1  | Programm wurde ausgeführt.                                        | "Nichts"                               | ![Bild](https://user-images.githubusercontent.com/79938743/188586636-30d68380-6ef1-48fc-8fef-1039e8416c92.png) |
-| 7.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | "Super, beginnen wir!" |
-| 8.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | "Super, beginnen wir!" |
+| 5.1  | Spiel wurde bendet.                                               | -                                      | "Du hast (AnzVersuche) Versuche gebraucht." |
+| 6.1  | Frage wurde gestellt und wartet auf user Input.                   | True / False                           | True = "Super Spiel wird neu getstartet!" False = "Schade ;)"   |
+| 7.1  | Programm wurde ausgeführt.                                        | "Nichts"                               | ![Bild](https://user-images.githubusercontent.com/79938743/188586636-30d68380-6ef1-48fc-8fef-1039e8416c92.png) |
+| 8.1  | Begrüssung wurde gezeigt, fragt nach dem minimal und maximal wert und wartet auf User Input.   | "1" & "40"     | "Super, beginnen wir!" |
+| 9.1  | Begrüssung wurde gezeigt, fragt nach schwierigkeitsstufe oder ob man slbst eine eingeben will.   | "easy"   | "Super, beginnen wir!" |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
