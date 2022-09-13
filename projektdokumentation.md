@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Erismann
+Erismann Niclas
 
 | Datum           | Version | Zusammenfassung                                              |
 | --------------- | ------- | ------------------------------------------------------------ |
