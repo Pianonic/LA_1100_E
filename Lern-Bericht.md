@@ -15,6 +15,7 @@ Als ich bei einem Kollegen aus der Parallelklasse gesehen habe, dass er sein Pro
 
 ![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Animation.gif)
 ![Bild](https://github.com/Pianonic/LA_1100_E/blob/main/Screenshots/Screenshot%202022-09-13%20100154.png?raw=true)
+
 Hier ist der Code vom obigem Bild:
 
 ``` using System;
